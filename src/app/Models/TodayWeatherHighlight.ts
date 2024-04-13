@@ -1,0 +1,10 @@
+export class TodaysWeatherHighlight{
+    uvIndex:number;
+    windStatus:number;
+    sunrise:string;
+    sunset:string;
+    humidity:number;
+    visibility:number;
+    airQuality:number;
+    
+}
